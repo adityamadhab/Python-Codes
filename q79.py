@@ -1,4 +1,6 @@
 try:
-    result = 5 / 0
-except ZeroDivisionError as e:
+    value = int("42")
+except ValueError as e:
     print("Exception:", e)
+else:
+    print("No exception occurred. Value is", value)
