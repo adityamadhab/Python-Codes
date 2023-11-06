@@ -35,3 +35,6 @@ print(dic)
 
 dic.pop("age")
 print(dic)
+
+del dic["rollno"]
+print(dic)

@@ -1,5 +1,5 @@
 #Use of membership operator
-# in  in, not 
+# in , not in 
 
 list1=[1,2,3,4]
 list2=[2,6,7,8]

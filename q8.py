@@ -1,6 +1,8 @@
 #[], ordered(indexing), mutuable, heterogenous, allow duplicates
 #Acces the elements in a list
-list=["Apple", 2.0, 10 ,"Banana"]
+
+
+list= ["Apple", 2.0, 10 ,"Banana"]
 print(list)
 print(list[1]) #2.0
 print(list[-2]) #10
