@@ -8,5 +8,5 @@ data={
     'cars': ["BMW", "Volvo", "Ford"],
      'passings': [3, 7, 2]
 }
-newdata = pd.Series(data)
+newdata = pd.DataFrame(data)
 print(newdata)
