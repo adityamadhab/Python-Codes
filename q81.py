@@ -1,4 +1,4 @@
-#Python program to print a pyramid with numbers
+#Python program to print a inverse pyramid with numbers
 
 row = int(input("Enter the number of rows: "))
 
@@ -15,3 +15,4 @@ for i in range(row, 0,-1):
         count += 1
     
     print("\r")
+
