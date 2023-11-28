@@ -1,5 +1,5 @@
 #Lamda function
 
-sex = lambda x,y : x+y
+add = lambda x,y : x+y
 
-print(sex(5,3))
+print(add(5,3))
